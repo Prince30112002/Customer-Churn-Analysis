@@ -1,4 +1,3 @@
-Perfect 😄 Here’s a **ready-to-copy version** of the README for your Customer Churn Analysis project. You can directly paste it into your GitHub repo:
 
 # **Customer Churn Analysis**
 
